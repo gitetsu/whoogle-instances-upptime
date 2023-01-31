@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-31": 374,
+      "2023-01-31": 392,
       "2023-01-30": 574
     }
   },
@@ -55,7 +55,7 @@
     "timeMonth": 71,
     "timeYear": 71,
     "dailyMinutesDown": {
-      "2023-01-31": 374,
+      "2023-01-31": 392,
       "2023-01-30": 574
     }
   },
@@ -130,7 +130,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-31": 374,
+      "2023-01-31": 392,
       "2023-01-30": 574
     }
   },
@@ -151,7 +151,7 @@
     "timeMonth": 229,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2023-01-31": 374,
+      "2023-01-31": 392,
       "2023-01-30": 574
     }
   },
@@ -160,19 +160,19 @@
     "url": "https://whoogle.privacydev.net",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png",
     "slug": "whoogle-privacydev-net",
-    "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
-    "time": 408,
-    "timeDay": 408,
-    "timeWeek": 408,
-    "timeMonth": 408,
-    "timeYear": 408,
+    "status": "up",
+    "uptime": "98.15%",
+    "uptimeDay": "98.15%",
+    "uptimeWeek": "98.15%",
+    "uptimeMonth": "98.15%",
+    "uptimeYear": "98.15%",
+    "time": 358,
+    "timeDay": 358,
+    "timeWeek": 358,
+    "timeMonth": 358,
+    "timeYear": 358,
     "dailyMinutesDown": {
-      "2023-01-31": 2
+      "2023-01-31": 18
     }
   },
   {
@@ -192,7 +192,7 @@
     "timeMonth": 2285,
     "timeYear": 2285,
     "dailyMinutesDown": {
-      "2023-01-31": 374,
+      "2023-01-31": 392,
       "2023-01-30": 574
     }
   },
@@ -213,7 +213,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-31": 374,
+      "2023-01-31": 392,
       "2023-01-30": 574
     }
   },
@@ -241,18 +241,18 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png",
     "slug": "whoogle-lunar-icu",
     "status": "down",
-    "uptime": "17.61%",
-    "uptimeDay": "17.61%",
-    "uptimeWeek": "17.61%",
-    "uptimeMonth": "17.61%",
-    "uptimeYear": "17.61%",
+    "uptime": "17.28%",
+    "uptimeDay": "17.28%",
+    "uptimeWeek": "17.28%",
+    "uptimeMonth": "17.28%",
+    "uptimeYear": "17.28%",
     "time": 586,
     "timeDay": 586,
     "timeWeek": 586,
     "timeMonth": 586,
     "timeYear": 586,
     "dailyMinutesDown": {
-      "2023-01-31": 374,
+      "2023-01-31": 392,
       "2023-01-30": 407
     }
   }
