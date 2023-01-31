@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-31": 408,
+      "2023-01-31": 430,
       "2023-01-30": 574
     }
   },
@@ -55,7 +55,7 @@
     "timeMonth": 71,
     "timeYear": 71,
     "dailyMinutesDown": {
-      "2023-01-31": 408,
+      "2023-01-31": 430,
       "2023-01-30": 574
     }
   },
@@ -82,19 +82,19 @@
     "url": "https://search.sethforprivacy.com",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png",
     "slug": "search-sethforprivacy-com",
-    "status": "up",
-    "uptime": "99.48%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.48%",
-    "uptimeMonth": "99.48%",
-    "uptimeYear": "99.48%",
-    "time": 450,
-    "timeDay": 450,
-    "timeWeek": 450,
-    "timeMonth": 450,
-    "timeYear": 450,
+    "status": "down",
+    "uptime": "99.83%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 469,
+    "timeDay": 469,
+    "timeWeek": 469,
+    "timeMonth": 469,
+    "timeYear": 469,
     "dailyMinutesDown": {
-      "2023-01-31": 5
+      "2023-01-31": 2
     }
   },
   {
@@ -121,18 +121,18 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ca.png",
     "slug": "whoogle-esmailelbob-xyz",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-31": 408,
+      "2023-01-31": 430,
       "2023-01-30": 574
     }
   },
@@ -153,7 +153,7 @@
     "timeMonth": 229,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2023-01-31": 408,
+      "2023-01-31": 430,
       "2023-01-30": 574
     }
   },
@@ -163,11 +163,11 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png",
     "slug": "whoogle-privacydev-net",
     "status": "up",
-    "uptime": "98.18%",
-    "uptimeDay": "98.18%",
-    "uptimeWeek": "98.18%",
-    "uptimeMonth": "98.18%",
-    "uptimeYear": "98.18%",
+    "uptime": "98.22%",
+    "uptimeDay": "98.22%",
+    "uptimeWeek": "98.22%",
+    "uptimeMonth": "98.22%",
+    "uptimeYear": "98.22%",
     "time": 358,
     "timeDay": 358,
     "timeWeek": 358,
@@ -194,7 +194,7 @@
     "timeMonth": 2285,
     "timeYear": 2285,
     "dailyMinutesDown": {
-      "2023-01-31": 408,
+      "2023-01-31": 430,
       "2023-01-30": 574
     }
   },
@@ -215,7 +215,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-31": 408,
+      "2023-01-31": 430,
       "2023-01-30": 574
     }
   },
@@ -243,18 +243,18 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png",
     "slug": "whoogle-lunar-icu",
     "status": "down",
-    "uptime": "17.01%",
-    "uptimeDay": "17.01%",
-    "uptimeWeek": "17.01%",
-    "uptimeMonth": "17.01%",
-    "uptimeYear": "17.01%",
+    "uptime": "16.62%",
+    "uptimeDay": "16.62%",
+    "uptimeWeek": "16.62%",
+    "uptimeMonth": "16.62%",
+    "uptimeYear": "16.62%",
     "time": 586,
     "timeDay": 586,
     "timeWeek": 586,
     "timeMonth": 586,
     "timeYear": 586,
     "dailyMinutesDown": {
-      "2023-01-31": 408,
+      "2023-01-31": 430,
       "2023-01-30": 407
     }
   }
