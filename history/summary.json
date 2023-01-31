@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-31": 62,
+      "2023-01-31": 374,
       "2023-01-30": 574
     }
   },
@@ -55,7 +55,7 @@
     "timeMonth": 71,
     "timeYear": 71,
     "dailyMinutesDown": {
-      "2023-01-31": 62,
+      "2023-01-31": 374,
       "2023-01-30": 574
     }
   },
@@ -130,7 +130,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-31": 62,
+      "2023-01-31": 374,
       "2023-01-30": 574
     }
   },
@@ -151,7 +151,7 @@
     "timeMonth": 229,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2023-01-31": 62,
+      "2023-01-31": 374,
       "2023-01-30": 574
     }
   },
@@ -160,18 +160,20 @@
     "url": "https://whoogle.privacydev.net",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png",
     "slug": "whoogle-privacydev-net",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.83%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
     "time": 408,
     "timeDay": 408,
     "timeWeek": 408,
     "timeMonth": 408,
     "timeYear": 408,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-31": 2
+    }
   },
   {
     "name": "wwg.vern.cc",
@@ -190,7 +192,7 @@
     "timeMonth": 2285,
     "timeYear": 2285,
     "dailyMinutesDown": {
-      "2023-01-31": 62,
+      "2023-01-31": 374,
       "2023-01-30": 574
     }
   },
@@ -200,18 +202,18 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ca.png",
     "slug": "www-indexia-gq",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-31": 62,
+      "2023-01-31": 374,
       "2023-01-30": 574
     }
   },
@@ -239,18 +241,18 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png",
     "slug": "whoogle-lunar-icu",
     "status": "down",
-    "uptime": "26.23%",
-    "uptimeDay": "26.23%",
-    "uptimeWeek": "26.23%",
-    "uptimeMonth": "26.23%",
-    "uptimeYear": "26.23%",
+    "uptime": "17.61%",
+    "uptimeDay": "17.61%",
+    "uptimeWeek": "17.61%",
+    "uptimeMonth": "17.61%",
+    "uptimeYear": "17.61%",
     "time": 586,
     "timeDay": 586,
     "timeWeek": 586,
     "timeMonth": 586,
     "timeYear": 586,
     "dailyMinutesDown": {
-      "2023-01-31": 62,
+      "2023-01-31": 374,
       "2023-01-30": 407
     }
   }
