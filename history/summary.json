@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-02": 1196,
+      "2023-02-02": 1215,
       "2023-02-01": 1440,
       "2023-01-31": 1440,
       "2023-01-30": 574
@@ -57,7 +57,7 @@
     "timeMonth": 81,
     "timeYear": 81,
     "dailyMinutesDown": {
-      "2023-02-02": 1196,
+      "2023-02-02": 1215,
       "2023-02-01": 1440,
       "2023-01-31": 1440,
       "2023-01-30": 574
@@ -87,11 +87,11 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png",
     "slug": "search-sethforprivacy-com",
     "status": "up",
-    "uptime": "97.07%",
+    "uptime": "97.08%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.07%",
-    "uptimeMonth": "97.07%",
-    "uptimeYear": "97.07%",
+    "uptimeWeek": "97.08%",
+    "uptimeMonth": "97.08%",
+    "uptimeYear": "97.08%",
     "time": 496,
     "timeDay": 499,
     "timeWeek": 496,
@@ -137,7 +137,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-02": 1196,
+      "2023-02-02": 1215,
       "2023-02-01": 1440,
       "2023-01-31": 1440,
       "2023-01-30": 574
@@ -160,7 +160,7 @@
     "timeMonth": 214,
     "timeYear": 214,
     "dailyMinutesDown": {
-      "2023-02-02": 1196,
+      "2023-02-02": 1215,
       "2023-02-01": 1440,
       "2023-01-31": 1440,
       "2023-01-30": 574
@@ -203,7 +203,7 @@
     "timeMonth": 1304,
     "timeYear": 1304,
     "dailyMinutesDown": {
-      "2023-02-02": 1196,
+      "2023-02-02": 1215,
       "2023-02-01": 1440,
       "2023-01-31": 1440,
       "2023-01-30": 574
@@ -226,7 +226,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-02": 1196,
+      "2023-02-02": 1215,
       "2023-02-01": 1440,
       "2023-01-31": 1440,
       "2023-01-30": 574
@@ -255,19 +255,19 @@
     "url": "https://whoogle.lunar.icu",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png",
     "slug": "whoogle-lunar-icu",
-    "status": "down",
-    "uptime": "79.37%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "79.37%",
-    "uptimeMonth": "79.37%",
-    "uptimeYear": "79.37%",
-    "time": 624,
-    "timeDay": 596,
-    "timeWeek": 624,
-    "timeMonth": 624,
-    "timeYear": 624,
+    "status": "up",
+    "uptime": "79.04%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "79.04%",
+    "uptimeMonth": "79.04%",
+    "uptimeYear": "79.04%",
+    "time": 634,
+    "timeDay": 637,
+    "timeWeek": 634,
+    "timeMonth": 634,
+    "timeYear": 634,
     "dailyMinutesDown": {
-      "2023-02-02": 0,
+      "2023-02-02": 19,
       "2023-01-31": 552,
       "2023-01-30": 407
     }
