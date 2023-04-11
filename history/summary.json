@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-11": 631,
+      "2023-04-11": 637,
       "2023-04-10": 1440,
       "2023-04-09": 1440,
       "2023-04-08": 1440,
@@ -252,7 +252,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-11": 631,
+      "2023-04-11": 637,
       "2023-04-10": 1440,
       "2023-04-09": 1440,
       "2023-04-08": 1440,
@@ -343,7 +343,7 @@
     "timeMonth": 151,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2023-04-11": 631,
+      "2023-04-11": 637,
       "2023-04-10": 1440,
       "2023-04-09": 1440,
       "2023-04-08": 1440,
@@ -444,9 +444,9 @@
     "url": "https://wg.vern.cc",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png",
     "slug": "wwg-vern-cc",
-    "status": "up",
+    "status": "down",
     "uptime": "71.07%",
-    "uptimeDay": "87.77%",
+    "uptimeDay": "87.75%",
     "uptimeWeek": "63.46%",
     "uptimeMonth": "65.11%",
     "uptimeYear": "71.07%",
@@ -517,7 +517,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-11": 631,
+      "2023-04-11": 637,
       "2023-04-10": 1440,
       "2023-04-09": 1440,
       "2023-04-08": 1440,
