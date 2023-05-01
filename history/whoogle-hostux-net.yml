@@ -1,7 +1,7 @@
 url: https://whoogle.hostux.net
-status: up
-code: 200
-responseTime: 935
-lastUpdated: 2023-04-30T23:13:24.017Z
+status: down
+code: 502
+responseTime: 861
+lastUpdated: 2023-05-01T19:45:57.065Z
 startTime: Mon Jan 30 2023 14:26:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
