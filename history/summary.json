@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-14": 385,
+      "2023-05-14": 446,
       "2023-05-13": 1440,
       "2023-05-12": 1440,
       "2023-05-11": 1440,
@@ -152,11 +152,11 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png",
     "slug": "search-dr460nf1r3-org",
     "status": "up",
-    "uptime": "83.84%",
+    "uptime": "83.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "83.84%",
+    "uptimeYear": "83.85%",
     "time": 579,
     "timeDay": 657,
     "timeWeek": 649,
@@ -304,7 +304,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-14": 385,
+      "2023-05-14": 446,
       "2023-05-13": 1440,
       "2023-05-12": 1440,
       "2023-05-11": 1440,
@@ -428,7 +428,7 @@
     "timeMonth": 0,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2023-05-14": 385,
+      "2023-05-14": 446,
       "2023-05-13": 1440,
       "2023-05-12": 1440,
       "2023-05-11": 1440,
@@ -562,12 +562,12 @@
     "url": "https://wg.vern.cc",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png",
     "slug": "wwg-vern-cc",
-    "status": "up",
-    "uptime": "64.10%",
-    "uptimeDay": "2.85%",
-    "uptimeWeek": "1.77%",
+    "status": "down",
+    "uptime": "64.12%",
+    "uptimeDay": "7.06%",
+    "uptimeWeek": "2.37%",
     "uptimeMonth": "16.51%",
-    "uptimeYear": "64.10%",
+    "uptimeYear": "64.12%",
     "time": 931,
     "timeDay": 328,
     "timeWeek": 1493,
@@ -629,7 +629,7 @@
       "2023-03-19": 972,
       "2023-03-18": 554,
       "2023-03-14": 125,
-      "2023-03-13": 57
+      "2023-03-13": 41
     }
   },
   {
@@ -649,7 +649,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-14": 385,
+      "2023-05-14": 446,
       "2023-05-13": 1440,
       "2023-05-12": 1440,
       "2023-05-11": 1440,
