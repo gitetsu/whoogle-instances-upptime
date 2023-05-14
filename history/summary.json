@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-14": 565,
+      "2023-05-14": 572,
       "2023-05-13": 1440,
       "2023-05-12": 1440,
       "2023-05-11": 1440,
@@ -260,10 +260,10 @@
     "url": "https://whoogle.dcs0.hu",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/hu.png",
     "slug": "whoogle-dcs0-hu",
-    "status": "up",
+    "status": "down",
     "uptime": "98.86%",
-    "uptimeDay": "76.71%",
-    "uptimeWeek": "96.67%",
+    "uptimeDay": "76.65%",
+    "uptimeWeek": "96.66%",
     "uptimeMonth": "97.26%",
     "uptimeYear": "98.86%",
     "time": 3793,
@@ -272,7 +272,7 @@
     "timeMonth": 5106,
     "timeYear": 3793,
     "dailyMinutesDown": {
-      "2023-05-14": 58,
+      "2023-05-14": 59,
       "2023-05-13": 278,
       "2023-05-06": 94,
       "2023-05-05": 529,
@@ -305,7 +305,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-14": 565,
+      "2023-05-14": 572,
       "2023-05-13": 1440,
       "2023-05-12": 1440,
       "2023-05-11": 1440,
@@ -429,7 +429,7 @@
     "timeMonth": 0,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2023-05-14": 565,
+      "2023-05-14": 572,
       "2023-05-13": 1440,
       "2023-05-12": 1440,
       "2023-05-11": 1440,
@@ -563,12 +563,12 @@
     "url": "https://wg.vern.cc",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png",
     "slug": "wwg-vern-cc",
-    "status": "up",
-    "uptime": "64.12%",
-    "uptimeDay": "11.54%",
-    "uptimeWeek": "3.01%",
+    "status": "down",
+    "uptime": "64.15%",
+    "uptimeDay": "12.04%",
+    "uptimeWeek": "3.08%",
     "uptimeMonth": "16.39%",
-    "uptimeYear": "64.12%",
+    "uptimeYear": "64.15%",
     "time": 925,
     "timeDay": 298,
     "timeWeek": 1187,
@@ -629,8 +629,7 @@
       "2023-03-20": 132,
       "2023-03-19": 972,
       "2023-03-18": 554,
-      "2023-03-14": 125,
-      "2023-03-13": 41
+      "2023-03-14": 125
     }
   },
   {
@@ -650,7 +649,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-14": 565,
+      "2023-05-14": 572,
       "2023-05-13": 1440,
       "2023-05-12": 1440,
       "2023-05-11": 1440,
