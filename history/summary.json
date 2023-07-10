@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 5178,
     "dailyMinutesDown": {
-      "2023-07-10": 218,
+      "2023-07-10": 227,
       "2023-07-09": 1440,
       "2023-07-08": 1440,
       "2023-07-07": 1440,
@@ -332,7 +332,7 @@
     "uptime": "92.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "70.07%",
+    "uptimeMonth": "70.09%",
     "uptimeYear": "92.28%",
     "time": 3607,
     "timeDay": 875,
@@ -390,7 +390,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-10": 218,
+      "2023-07-10": 227,
       "2023-07-09": 1440,
       "2023-07-08": 1440,
       "2023-07-07": 1440,
@@ -571,7 +571,7 @@
     "timeMonth": 0,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2023-07-10": 218,
+      "2023-07-10": 227,
       "2023-07-09": 1440,
       "2023-07-08": 1440,
       "2023-07-07": 1440,
@@ -742,9 +742,9 @@
     "slug": "whoogle-privacydev-net",
     "status": "down",
     "uptime": "95.44%",
-    "uptimeDay": "79.89%",
+    "uptimeDay": "79.27%",
     "uptimeWeek": "83.92%",
-    "uptimeMonth": "85.55%",
+    "uptimeMonth": "85.53%",
     "uptimeYear": "95.44%",
     "time": 1185,
     "timeDay": 599,
@@ -752,7 +752,7 @@
     "timeMonth": 1449,
     "timeYear": 1185,
     "dailyMinutesDown": {
-      "2023-07-10": 140,
+      "2023-07-10": 149,
       "2023-07-09": 150,
       "2023-07-08": 20,
       "2023-07-05": 305,
@@ -781,18 +781,19 @@
     "url": "https://wg.vern.cc",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png",
     "slug": "wwg-vern-cc",
-    "status": "up",
-    "uptime": "78.01%",
-    "uptimeDay": "50.94%",
+    "status": "down",
+    "uptime": "78.10%",
+    "uptimeDay": "50.92%",
     "uptimeWeek": "92.99%",
     "uptimeMonth": "98.03%",
-    "uptimeYear": "78.01%",
+    "uptimeYear": "78.10%",
     "time": 1032,
     "timeDay": 1154,
     "timeWeek": 1434,
     "timeMonth": 1053,
     "timeYear": 1032,
     "dailyMinutesDown": {
+      "2023-07-10": 0,
       "2023-07-09": 706,
       "2023-06-27": 90,
       "2023-06-26": 19,
@@ -845,7 +846,7 @@
       "2023-04-01": 55,
       "2023-03-31": 1322,
       "2023-03-30": 1440,
-      "2023-03-29": 438
+      "2023-03-29": 228
     }
   },
   {
@@ -865,7 +866,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-10": 218,
+      "2023-07-10": 227,
       "2023-07-09": 1440,
       "2023-07-08": 1440,
       "2023-07-07": 1440,
