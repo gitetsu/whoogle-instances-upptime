@@ -16,7 +16,7 @@
     "timeMonth": 641,
     "timeYear": 4530,
     "dailyMinutesDown": {
-      "2023-07-27": 1269,
+      "2023-07-27": 1316,
       "2023-07-26": 1440,
       "2023-07-25": 1440,
       "2023-07-24": 1440,
@@ -414,7 +414,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-27": 1269,
+      "2023-07-27": 1317,
       "2023-07-26": 1440,
       "2023-07-25": 1440,
       "2023-07-24": 1440,
@@ -612,7 +612,7 @@
     "timeMonth": 0,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2023-07-27": 1269,
+      "2023-07-27": 1317,
       "2023-07-26": 1440,
       "2023-07-25": 1440,
       "2023-07-24": 1440,
@@ -847,18 +847,19 @@
     "url": "https://wg.vern.cc",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png",
     "slug": "wwg-vern-cc",
-    "status": "up",
-    "uptime": "81.37%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "81.38%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.25%",
-    "uptimeYear": "81.37%",
+    "uptimeMonth": "98.24%",
+    "uptimeYear": "81.38%",
     "time": 993,
     "timeDay": 304,
     "timeWeek": 349,
     "timeMonth": 1293,
     "timeYear": 993,
     "dailyMinutesDown": {
+      "2023-07-27": 0,
       "2023-07-19": 17,
       "2023-07-10": 45,
       "2023-07-09": 706,
@@ -911,7 +912,7 @@
       "2023-04-03": 342,
       "2023-04-02": 339,
       "2023-04-01": 55,
-      "2023-03-31": 131
+      "2023-03-31": 98
     }
   },
   {
@@ -931,7 +932,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-27": 1269,
+      "2023-07-27": 1317,
       "2023-07-26": 1440,
       "2023-07-25": 1440,
       "2023-07-24": 1440,
@@ -1145,9 +1146,9 @@
     "slug": "whoogle-lunar-icu",
     "status": "up",
     "uptime": "98.40%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "99.52%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.55%",
     "uptimeYear": "98.40%",
     "time": 1371,
     "timeDay": 836,
@@ -1155,7 +1156,6 @@
     "timeMonth": 1087,
     "timeYear": 1371,
     "dailyMinutesDown": {
-      "2023-07-27": 10,
       "2023-07-26": 18,
       "2023-07-25": 15,
       "2023-07-17": 15,
