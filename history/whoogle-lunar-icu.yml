@@ -1,7 +1,7 @@
 url: https://whoogle.lunar.icu
-status: up
-code: 200
-responseTime: 734
-lastUpdated: 2023-09-30T20:54:57.475Z
+status: down
+code: 500
+responseTime: 429
+lastUpdated: 2023-09-30T21:40:51.162Z
 startTime: 2023-01-30T14:26:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
