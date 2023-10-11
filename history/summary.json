@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 4530,
     "dailyMinutesDown": {
-      "2023-10-11": 996,
+      "2023-10-11": 1009,
       "2023-10-10": 1440,
       "2023-10-09": 1440,
       "2023-10-08": 1440,
@@ -327,7 +327,7 @@
     "timeMonth": 0,
     "timeYear": 667,
     "dailyMinutesDown": {
-      "2023-10-11": 996,
+      "2023-10-11": 1009,
       "2023-10-10": 1440,
       "2023-10-09": 1440,
       "2023-10-08": 1440,
@@ -423,9 +423,9 @@
     "slug": "search-sethforprivacy-com",
     "status": "up",
     "uptime": "95.72%",
-    "uptimeDay": "91.95%",
-    "uptimeWeek": "97.78%",
-    "uptimeMonth": "97.71%",
+    "uptimeDay": "92.60%",
+    "uptimeWeek": "97.87%",
+    "uptimeMonth": "97.74%",
     "uptimeYear": "95.72%",
     "time": 490,
     "timeDay": 260,
@@ -433,7 +433,7 @@
     "timeMonth": 289,
     "timeYear": 490,
     "dailyMinutesDown": {
-      "2023-10-11": 76,
+      "2023-10-11": 67,
       "2023-10-10": 147,
       "2023-09-26": 100,
       "2023-09-25": 135,
@@ -482,7 +482,7 @@
       "2023-02-12": 83,
       "2023-02-11": 44,
       "2023-02-10": 414,
-      "2023-02-09": 21
+      "2023-02-09": 37
     }
   },
   {
@@ -490,11 +490,11 @@
     "url": "https://whoogle.dcs0.hu",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/hu.png",
     "slug": "whoogle-dcs0-hu",
-    "status": "up",
+    "status": "down",
     "uptime": "94.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.10%",
+    "uptimeMonth": "99.09%",
     "uptimeYear": "94.96%",
     "time": 2999,
     "timeDay": 1440,
@@ -502,6 +502,7 @@
     "timeMonth": 3077,
     "timeYear": 2999,
     "dailyMinutesDown": {
+      "2023-10-11": 0,
       "2023-10-09": 17,
       "2023-09-19": 248,
       "2023-09-18": 5,
@@ -559,7 +560,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-11": 996,
+      "2023-10-11": 1009,
       "2023-10-10": 1440,
       "2023-10-09": 1440,
       "2023-10-08": 1440,
@@ -833,7 +834,7 @@
     "timeMonth": 0,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2023-10-11": 996,
+      "2023-10-11": 1009,
       "2023-10-10": 1440,
       "2023-10-09": 1440,
       "2023-10-08": 1440,
@@ -1161,7 +1162,7 @@
     "timeMonth": 246,
     "timeYear": 951,
     "dailyMinutesDown": {
-      "2023-10-11": 996,
+      "2023-10-11": 1009,
       "2023-10-10": 1440,
       "2023-10-09": 1440,
       "2023-10-08": 1440,
@@ -1283,7 +1284,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-11": 996,
+      "2023-10-11": 1009,
       "2023-10-10": 1440,
       "2023-10-09": 1440,
       "2023-10-08": 1440,
