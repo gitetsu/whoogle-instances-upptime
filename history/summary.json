@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 4530,
     "dailyMinutesDown": {
-      "2023-10-12": 954,
+      "2023-10-12": 960,
       "2023-10-11": 1440,
       "2023-10-10": 1440,
       "2023-10-09": 1440,
@@ -328,7 +328,7 @@
     "timeMonth": 0,
     "timeYear": 667,
     "dailyMinutesDown": {
-      "2023-10-12": 954,
+      "2023-10-12": 960,
       "2023-10-11": 1440,
       "2023-10-10": 1440,
       "2023-10-09": 1440,
@@ -559,7 +559,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-12": 954,
+      "2023-10-12": 960,
       "2023-10-11": 1440,
       "2023-10-10": 1440,
       "2023-10-09": 1440,
@@ -834,7 +834,7 @@
     "timeMonth": 0,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2023-10-12": 954,
+      "2023-10-12": 960,
       "2023-10-11": 1440,
       "2023-10-10": 1440,
       "2023-10-09": 1440,
@@ -1163,7 +1163,7 @@
     "timeMonth": 165,
     "timeYear": 951,
     "dailyMinutesDown": {
-      "2023-10-12": 954,
+      "2023-10-12": 960,
       "2023-10-11": 1440,
       "2023-10-10": 1440,
       "2023-10-09": 1440,
@@ -1286,7 +1286,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-12": 954,
+      "2023-10-12": 960,
       "2023-10-11": 1440,
       "2023-10-10": 1440,
       "2023-10-09": 1440,
@@ -1576,10 +1576,10 @@
     "url": "https://whoogle.lunar.icu",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png",
     "slug": "whoogle-lunar-icu",
-    "status": "up",
+    "status": "down",
     "uptime": "98.41%",
-    "uptimeDay": "98.86%",
-    "uptimeWeek": "99.67%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.66%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "98.41%",
     "time": 1249,
