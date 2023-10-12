@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 4530,
     "dailyMinutesDown": {
-      "2023-10-12": 308,
+      "2023-10-12": 341,
       "2023-10-11": 1440,
       "2023-10-10": 1440,
       "2023-10-09": 1440,
@@ -328,7 +328,7 @@
     "timeMonth": 0,
     "timeYear": 667,
     "dailyMinutesDown": {
-      "2023-10-12": 308,
+      "2023-10-12": 341,
       "2023-10-11": 1440,
       "2023-10-10": 1440,
       "2023-10-09": 1440,
@@ -423,12 +423,12 @@
     "url": "https://search.sethforprivacy.com",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png",
     "slug": "search-sethforprivacy-com",
-    "status": "up",
-    "uptime": "95.83%",
-    "uptimeDay": "87.10%",
-    "uptimeWeek": "96.54%",
+    "status": "down",
+    "uptime": "95.85%",
+    "uptimeDay": "87.08%",
+    "uptimeWeek": "96.53%",
     "uptimeMonth": "97.43%",
-    "uptimeYear": "95.83%",
+    "uptimeYear": "95.85%",
     "time": 484,
     "timeDay": 259,
     "timeWeek": 271,
@@ -482,8 +482,7 @@
       "2023-03-20": 258,
       "2023-03-19": 566,
       "2023-02-13": 100,
-      "2023-02-12": 83,
-      "2023-02-11": 1
+      "2023-02-12": 18
     }
   },
   {
@@ -499,7 +498,7 @@
     "uptimeYear": "94.97%",
     "time": 3079,
     "timeDay": 11171,
-    "timeWeek": 6428,
+    "timeWeek": 6559,
     "timeMonth": 3687,
     "timeYear": 3079,
     "dailyMinutesDown": {
@@ -560,7 +559,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-12": 308,
+      "2023-10-12": 341,
       "2023-10-11": 1440,
       "2023-10-10": 1440,
       "2023-10-09": 1440,
@@ -835,7 +834,7 @@
     "timeMonth": 0,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2023-10-12": 308,
+      "2023-10-12": 341,
       "2023-10-11": 1440,
       "2023-10-10": 1440,
       "2023-10-09": 1440,
@@ -1164,7 +1163,7 @@
     "timeMonth": 165,
     "timeYear": 951,
     "dailyMinutesDown": {
-      "2023-10-12": 308,
+      "2023-10-12": 341,
       "2023-10-11": 1440,
       "2023-10-10": 1440,
       "2023-10-09": 1440,
@@ -1287,7 +1286,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-12": 308,
+      "2023-10-12": 341,
       "2023-10-11": 1440,
       "2023-10-10": 1440,
       "2023-10-09": 1440,
