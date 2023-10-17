@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 4530,
     "dailyMinutesDown": {
-      "2023-10-17": 1162,
+      "2023-10-17": 1197,
       "2023-10-16": 1440,
       "2023-10-15": 1440,
       "2023-10-14": 1440,
@@ -333,7 +333,7 @@
     "timeMonth": 0,
     "timeYear": 667,
     "dailyMinutesDown": {
-      "2023-10-17": 1162,
+      "2023-10-17": 1197,
       "2023-10-16": 1440,
       "2023-10-15": 1440,
       "2023-10-14": 1440,
@@ -442,7 +442,7 @@
     "time": 474,
     "timeDay": 214,
     "timeWeek": 254,
-    "timeMonth": 281,
+    "timeMonth": 280,
     "timeYear": 474,
     "dailyMinutesDown": {
       "2023-10-17": 65,
@@ -573,7 +573,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-17": 1163,
+      "2023-10-17": 1197,
       "2023-10-16": 1440,
       "2023-10-15": 1440,
       "2023-10-14": 1440,
@@ -853,7 +853,7 @@
     "timeMonth": 0,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2023-10-17": 1163,
+      "2023-10-17": 1197,
       "2023-10-16": 1440,
       "2023-10-15": 1440,
       "2023-10-14": 1440,
@@ -1190,7 +1190,7 @@
     "timeMonth": 0,
     "timeYear": 951,
     "dailyMinutesDown": {
-      "2023-10-17": 1163,
+      "2023-10-17": 1197,
       "2023-10-16": 1440,
       "2023-10-15": 1440,
       "2023-10-14": 1440,
@@ -1318,7 +1318,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-17": 1163,
+      "2023-10-17": 1197,
       "2023-10-16": 1440,
       "2023-10-15": 1440,
       "2023-10-14": 1440,
@@ -1616,10 +1616,10 @@
     "url": "https://whoogle.lunar.icu",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png",
     "slug": "whoogle-lunar-icu",
-    "status": "up",
+    "status": "down",
     "uptime": "98.42%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.01%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.00%",
     "uptimeMonth": "99.41%",
     "uptimeYear": "98.42%",
     "time": 1222,
@@ -1628,6 +1628,7 @@
     "timeMonth": 885,
     "timeYear": 1222,
     "dailyMinutesDown": {
+      "2023-10-17": 0,
       "2023-10-14": 17,
       "2023-10-13": 34,
       "2023-10-12": 49,
