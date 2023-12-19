@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 4530,
     "dailyMinutesDown": {
-      "2023-12-19": 865,
+      "2023-12-19": 877,
       "2023-12-18": 1440,
       "2023-12-17": 1440,
       "2023-12-16": 1440,
@@ -350,8 +350,8 @@
     "status": "down",
     "uptime": "97.65%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "30.12%",
-    "uptimeMonth": "82.78%",
+    "uptimeWeek": "30.00%",
+    "uptimeMonth": "82.76%",
     "uptimeYear": "97.65%",
     "time": 2619,
     "timeDay": 195,
@@ -359,7 +359,7 @@
     "timeMonth": 7897,
     "timeYear": 2619,
     "dailyMinutesDown": {
-      "2023-12-19": 865,
+      "2023-12-19": 877,
       "2023-12-18": 1440,
       "2023-12-17": 1440,
       "2023-12-16": 1440,
@@ -410,7 +410,7 @@
     "timeMonth": 0,
     "timeYear": 667,
     "dailyMinutesDown": {
-      "2023-12-19": 865,
+      "2023-12-19": 877,
       "2023-12-18": 1440,
       "2023-12-17": 1440,
       "2023-12-16": 1440,
@@ -581,10 +581,10 @@
     "url": "https://search.sethforprivacy.com",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png",
     "slug": "search-sethforprivacy-com",
-    "status": "up",
+    "status": "down",
     "uptime": "93.11%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "83.00%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "83.11%",
     "uptimeMonth": "83.81%",
     "uptimeYear": "93.11%",
     "time": 463,
@@ -593,6 +593,7 @@
     "timeMonth": 304,
     "timeYear": 463,
     "dailyMinutesDown": {
+      "2023-12-19": 0,
       "2023-12-13": 1139,
       "2023-12-12": 1283,
       "2023-12-09": 17,
@@ -645,7 +646,7 @@
       "2023-09-24": 216,
       "2023-09-23": 199,
       "2023-09-18": 21,
-      "2023-09-17": 51
+      "2023-09-17": 33
     }
   },
   {
@@ -654,18 +655,18 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/hu.png",
     "slug": "whoogle-dcs0-hu",
     "status": "down",
-    "uptime": "79.65%",
+    "uptime": "79.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "79.65%",
+    "uptimeYear": "79.64%",
     "time": 3030,
     "timeDay": 492,
     "timeWeek": 605,
     "timeMonth": 576,
     "timeYear": 3030,
     "dailyMinutesDown": {
-      "2023-12-19": 866,
+      "2023-12-19": 877,
       "2023-12-18": 1440,
       "2023-12-17": 1440,
       "2023-12-16": 1440,
@@ -779,7 +780,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-19": 866,
+      "2023-12-19": 877,
       "2023-12-18": 1440,
       "2023-12-17": 1440,
       "2023-12-16": 1440,
@@ -1122,7 +1123,7 @@
     "timeMonth": 0,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2023-12-19": 866,
+      "2023-12-19": 877,
       "2023-12-18": 1440,
       "2023-12-17": 1440,
       "2023-12-16": 1440,
@@ -1455,9 +1456,9 @@
     "slug": "whoogle-privacydev-net",
     "status": "up",
     "uptime": "97.21%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "62.44%",
-    "uptimeMonth": "91.14%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "62.56%",
+    "uptimeMonth": "91.17%",
     "uptimeYear": "97.21%",
     "time": 1238,
     "timeDay": 8070,
@@ -1465,7 +1466,6 @@
     "timeMonth": 1216,
     "timeYear": 1238,
     "dailyMinutesDown": {
-      "2023-12-19": 12,
       "2023-12-17": 68,
       "2023-12-16": 1440,
       "2023-12-15": 1440,
@@ -1504,7 +1504,8 @@
       "2023-07-12": 582,
       "2023-07-11": 744,
       "2023-07-10": 692,
-      "2023-07-09": 150
+      "2023-07-09": 150,
+      "2023-07-08": 20
     }
   },
   {
@@ -1515,8 +1516,8 @@
     "status": "up",
     "uptime": "54.38%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "36.49%",
-    "uptimeMonth": "9.78%",
+    "uptimeWeek": "36.60%",
+    "uptimeMonth": "9.80%",
     "uptimeYear": "54.38%",
     "time": 919,
     "timeDay": 116,
@@ -1713,7 +1714,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-19": 866,
+      "2023-12-19": 877,
       "2023-12-18": 1440,
       "2023-12-17": 1440,
       "2023-12-16": 1440,
@@ -2048,7 +2049,7 @@
     "uptime": "90.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "70.61%",
+    "uptimeMonth": "70.64%",
     "uptimeYear": "90.41%",
     "time": 744,
     "timeDay": 560,
