@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 4530,
     "dailyMinutesDown": {
-      "2023-12-27": 853,
+      "2023-12-27": 865,
       "2023-12-26": 1440,
       "2023-12-25": 1440,
       "2023-12-24": 1440,
@@ -359,7 +359,7 @@
     "uptime": "95.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "56.62%",
+    "uptimeMonth": "56.59%",
     "uptimeYear": "95.29%",
     "time": 2580,
     "timeDay": 32,
@@ -367,7 +367,7 @@
     "timeMonth": 8013,
     "timeYear": 2580,
     "dailyMinutesDown": {
-      "2023-12-27": 854,
+      "2023-12-27": 865,
       "2023-12-26": 1440,
       "2023-12-25": 1440,
       "2023-12-24": 1440,
@@ -426,7 +426,7 @@
     "timeMonth": 0,
     "timeYear": 667,
     "dailyMinutesDown": {
-      "2023-12-27": 854,
+      "2023-12-27": 865,
       "2023-12-26": 1440,
       "2023-12-25": 1440,
       "2023-12-24": 1440,
@@ -605,16 +605,16 @@
     "url": "https://search.sethforprivacy.com",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png",
     "slug": "search-sethforprivacy-com",
-    "status": "up",
+    "status": "down",
     "uptime": "93.15%",
-    "uptimeDay": "94.09%",
-    "uptimeWeek": "90.89%",
-    "uptimeMonth": "83.86%",
+    "uptimeDay": "94.07%",
+    "uptimeWeek": "90.88%",
+    "uptimeMonth": "83.88%",
     "uptimeYear": "93.15%",
     "time": 456,
-    "timeDay": 267,
-    "timeWeek": 255,
-    "timeMonth": 284,
+    "timeDay": 262,
+    "timeWeek": 254,
+    "timeMonth": 283,
     "timeYear": 456,
     "dailyMinutesDown": {
       "2023-12-27": 67,
@@ -672,7 +672,7 @@
       "2023-10-10": 147,
       "2023-09-26": 100,
       "2023-09-25": 135,
-      "2023-09-24": 134
+      "2023-09-24": 117
     }
   },
   {
@@ -692,7 +692,7 @@
     "timeMonth": 585,
     "timeYear": 2988,
     "dailyMinutesDown": {
-      "2023-12-27": 854,
+      "2023-12-27": 866,
       "2023-12-26": 1440,
       "2023-12-25": 1440,
       "2023-12-24": 1440,
@@ -814,7 +814,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-27": 854,
+      "2023-12-27": 866,
       "2023-12-26": 1440,
       "2023-12-25": 1440,
       "2023-12-24": 1440,
@@ -1165,7 +1165,7 @@
     "timeMonth": 0,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2023-12-27": 854,
+      "2023-12-27": 866,
       "2023-12-26": 1440,
       "2023-12-25": 1440,
       "2023-12-24": 1440,
@@ -1567,7 +1567,7 @@
     "uptime": "55.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.24%",
-    "uptimeMonth": "35.34%",
+    "uptimeMonth": "35.37%",
     "uptimeYear": "55.59%",
     "time": 922,
     "timeDay": 497,
@@ -1764,7 +1764,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-27": 854,
+      "2023-12-27": 866,
       "2023-12-26": 1440,
       "2023-12-25": 1440,
       "2023-12-24": 1440,
@@ -2107,7 +2107,7 @@
     "uptime": "90.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.88%",
+    "uptimeMonth": "96.91%",
     "uptimeYear": "90.64%",
     "time": 741,
     "timeDay": 500,
